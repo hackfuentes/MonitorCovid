@@ -1,1 +1,1 @@
-# Monitor-Covid-19
+# MonitorCovid
